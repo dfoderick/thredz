@@ -10,7 +10,7 @@ bitcoin superscript for your web3 application
 * thredz allows for tracking changes in many types of document structures from prose to json
 * thredz can enforce clauses in a performance contract
 
-## other random
+## other
 * thredz uses a custom stack based bitcoin script interpreter to execute and record application state changes
 * thredz hashes off chain state to the blockchain
 * thredz loops
